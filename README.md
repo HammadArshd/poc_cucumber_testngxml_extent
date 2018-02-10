@@ -1,0 +1,1 @@
+POC created to see working of maven, cucumber, com.vimalselvam.cucumber-extentsreport, com.aventstack.extentreports, testNG Runner without adding @AfterClass in runnerCukes.
